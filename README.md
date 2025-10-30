@@ -1,6 +1,8 @@
-# Ejercicios de PHP - [Nombre de la Asignatura o Módulo]
+# Ejercicios de PHP - 
+Implantación de Aplicaciones Web
 
-¡Hola! 👋 Este repositorio sirve como mi bloc de notas y portfolio de los ejercicios realizados durante el curso de [Nombre de la Asignatura, por ej: "Desarrollo Web en Entorno Servidor"] en [Nombre de tu Centro de Estudios].
+¡Hola! 👋 Este repositorio sirve como mi bloc de notas y portfolio de los ejercicios realizados durante el curso de 
+Implantación de Aplicaciones Web en Colegio Salesianos de Atocha.
 
 ## 📖 Descripción
 
@@ -53,15 +55,15 @@ Para ejecutar estos ejercicios, necesitarás un entorno de servidor local compat
 
 ## 🧑‍💻 Autor
 
-* **[Tu Nombre Completo]**
-* **GitHub**: `[@TuUsuarioDeGitHub](https://github.com/[TuUsuarioDeGitHub])`
-* **LinkedIn**: `[Enlace a tu LinkedIn]` (Opcional, pero recomendado)
+* **Manuel Zamora del Cerro**
+* **GitHub**: [https://github.com/manuzamora01](https://github.com/manuzamora01)
+* **LinkedIn**: www.linkedin.com/in/manuel-zamora-acrf2
 
 ---
 
 ## 🏫 Contexto Académico
 
-* **Asignatura**: [Nombre de la Asignatura]
-* **Profesor/a**: [Nombre de tu Profesor/a]
-* **Centro de Estudios**: [Nombre de tu Instituto/Universidad]
-* **Curso Académico**: [Año, ej: 2024/2025]
+* **Asignatura**: Implantación de Aplicaciones Web
+* **Profesor/a**: José Manuel Prieto Gordo
+* **Centro de Estudios**: Colegio Salesianos de Atocha
+* **Curso Académico**: 2025/2026
