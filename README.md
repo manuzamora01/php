@@ -1,5 +1,4 @@
-# Ejercicios de PHP - 
-Implantación de Aplicaciones Web
+# Ejercicios de PHP - Implantación de Aplicaciones Web
 
 ¡Hola! 👋 Este repositorio sirve como mi bloc de notas y portfolio de los ejercicios realizados durante el curso de 
 Implantación de Aplicaciones Web en Colegio Salesianos de Atocha.
