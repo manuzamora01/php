@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ejercicio 4</title>
+        <style>
+            a {
+                text-decoration: none;
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Agenda Virtual PHP</h2>
+        <h1>Contactos</h1>
+        <p>Para guardar presione el botón</p>
+        <form action="Ejercicio4.php" method="get">
+            Nombre: &nbsp; <input type="text" name="nombre"> <br><br>
+            Trabajo: &nbsp; <input type="text" name="trabajo"> <br><br>
+            Teléfono: &nbsp; <input type="number" name="telefono"> <br><br>
+            Dirección: &nbsp; <input type="text" name="direccion"> <br><br>
+            Otras: &nbsp; <input type="text" name="otras"> <br><br>
+            <button type="submit" name="accion" value="guardar">Guardar</button> &nbsp;&nbsp; <button type="reset">Reset</button>
+            &nbsp;&nbsp; <button type="button"><a href="agenda.txt">Mostrar</a></button> <br><br>
+            Buscar por nombre: <input type="text" name="buscarNombre"> <br><br>
+            <button type="submit" name="accion" value="buscar">Buscar por nombre</button>
+        </form>
+    </body>
+</html>
